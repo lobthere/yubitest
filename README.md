@@ -3,4 +3,4 @@ i m gonna try to do an 2fa with python or c++ for yubikey, the blue one (https:/
 
 thanks for helping me 
 
-contact : <>
+contact : <lobthere#6495> on discord
